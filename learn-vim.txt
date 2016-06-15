@@ -1,0 +1,9 @@
+This is a text I use for learning VIM. The best editor known to Mankind!
+So here we go. I wll be updating this text as and when I update my skills.
+
+So; basic movement is with h,j,k,l --> Pupose?
+	 h - for moving left
+	 l - for moving right
+	 k - for moving up
+	 j - for moving down (why? cusse J looks like it is going down!)
+
