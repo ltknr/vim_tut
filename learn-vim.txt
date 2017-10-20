@@ -1,4 +1,4 @@
-This is a text I use for learning VIM. The best editor known to Mankind!
+This is a text I use for teaching VIM. The best editor known to Mankind!
 So here we go. I wll be updating this text as and when I update my skills.
 
 So; basic movement is with h,j,k,l --> Pupose?
